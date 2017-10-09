@@ -1,0 +1,11 @@
+add * recording * 107 Sgt. Pepper's Lonely Harts Club Band * Beatles * 1967 * George Martin
+add * recording * 109 * Yellow Submarine * Beatles * 1969 * George Martin
+add * song * 1003 * Chains * Gerry Goffin, Carole King
+add * song * 1004 * Boys * Luther Dixon, Wes Farrell
+add * recording * 113 * Please Please Me * Beatles * 1963 * George Martin
+add * song * 1122 * Don't Pass Me By * Richard Starkey
+add * song * 1102 * Being for the Benefit of Mr. Kite! * John Lennon, Paul McCartney
+add * song * 1115 * While My Guitar Gently Weeps * George Harrison
+add * song * 1129 * Everybody's Got Something to Hide Except Me and My Monkey * John Lennon, Paul McCartney
+add * song * 1120 * Piggies * Harrison
+add * track * 1001 * 0078
