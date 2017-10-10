@@ -26,26 +26,34 @@
 
 using namespace std;
 
+
+//object defintions
 Util util;
 UI ui;
 
+//class method for userInput
+// this processes all .user inputs for running commands by hand from .main
 int Command::userInput(){
 
-
+	//get user in
 	cout << "Please enter your command in the syntax as specified in .help" << "\n";
 	string individualComm;
 	std::cin >> individualComm;
-	// hold off until dave figures out how to parse a string into its indidual elements
 
+  //create the streams and vector
 	std::stringstream test(individualComm);
 	std::string segment;
 	std::vector<std::string> seglist;
 
+	//pump the lines into elements of the vector
 	while(std::getline(test, segment, '*'))
 	{
    seglist.push_back(segment);
 	}
 
+
+	//conditional which looks at each elelment of vector, to interpret what the user wants
+	//   and then will seive down into a future Class Method call.
 	if (seglist[0] == "add") {
 	    if ((seglist[1] == "recording") && (seglist.size() == 6)) {
 	        //recording.add(seglist[2],seglist[3],seglist[4],seglist[4]);
@@ -200,18 +208,22 @@ int Command::userInput(){
 	return 0;
 } // END of Command::userInput()
 
+
+//This class method call is for file reading and processing scripts.
 int Command::scriptInput(){
 
-  vector<string> subStrings, subCopy;
-
+	//fire up the vector and declare variables
+  vector<string> subStrings;
   string input;
 
+  //prompt user of input and fire up the string in
   cout << "Input file name: addall.txt to load entire database" << endl;
 	cout << "                 testall.txt to prove all entries and functions" << endl;
 	cout << "                 testsome.txt proves one of each function" << endl;
   string fInName;
   cin >> fInName;
 
+  //This is for future output feature
 	// cout << "Output file name: " << endl;
 	// string fOutName;
 	// cin >> fOutName;
@@ -221,27 +233,21 @@ int Command::scriptInput(){
   ifstream fileIn(fInName, ifstream::in);
   //ofstream fileOut(fOutName, ofstream::out);
 
-  if(!fileIn){ //THIS IS BLACKED CUZ ERRORS
+  if(!fileIn){
    cout << "ERROR: could not open file " << input << "  ...exiting\n";
    return(0);
   }
 
-
-
+  //takes each line from file in, and puts it into elements of the vector
   while(getline(fileIn, input)){
-
-
-
-
     stringstream ss(input);
-    string currentWord, temp1, temp2, temp3, tempNoD;
-
-
+    string currentWord;
     while (getline(ss, currentWord, '*')){
         subStrings.push_back(util.trim(currentWord));
     }
 
-
+		//conditional which looks at each elelment of vector, to interpret what the user wants
+		//   and then will seive down into a future Class Method call.
 		if (subStrings[0] == "add") {
 		    if ((subStrings[1] == "recording") && (subStrings.size() == 7)) {
 		      //recording.add(subStrings[2],subStrings[3],subStrings[4],subStrings[4],subStrings[5])
@@ -394,8 +400,9 @@ int Command::scriptInput(){
 		  ui.menuPrint();
 		} else { cout << "ERROR! command is not recognized OR function not implimented yet" << endl;
 		         cout << "Please ensure youve seperated input fields using *" << endl;
-		}
+		};
 
+		//clear up the vector for another iteration
     subStrings.clear();
   }
   //fileOut.close();

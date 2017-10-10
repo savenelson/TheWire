@@ -13,6 +13,8 @@
  *        addall.txt
  *        testsome.txt
  *				testall.txt
+
+ USED WITH PERMISSION BY:
  *//* * * * * * * * * * * * * * * * * * * * * * ** * */
 /*                                                   */
 /*  Program:  MyTunes Music Player                   */

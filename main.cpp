@@ -51,9 +51,14 @@ using namespace std;
 //Util util;
 
 int main(){
+
+	//for future feature
 	bool log;
 
+	//while loop that runs the initial menu upon launch
 	while(true){
+
+		//menu to prompt user for the opening options
 		std::cout << "\n         ~-~-~   THE-WIRE SOUND APP   ~-~-~ " << std::endl;
 		std::cout << "         COMMANDS:  .cmd to enter commands" << std::endl;
 		std::cout << "                    .help for information" << std::endl;
@@ -61,11 +66,12 @@ int main(){
 		std::cout << "                    .logStop to stop logging" << std::endl;
 		std::cout << "                    .exit to quit" << std::endl;
 
+			//declare local variables
 			string userChoice;
+
+			//get users choice and process
 			std::cin >> userChoice;
-
 			if( userChoice == ".exit"){break;}
-
 			else if(userChoice == ".help"){
 				UI ui;
 				ui.menuPrint();
@@ -77,10 +83,12 @@ int main(){
 				log = false; // use this flag to stop logging the inputs of the user
 			} else if(userChoice == ".cmd" ){
 
+			//submenu for .cmd
 		  std::cout << ".script or .user: " << std::endl;
 			string scriptType;
 			std::cin >> scriptType;
 
+			//process input and translate to method call
 			if(scriptType == ".script"){
 				Command com;
 				com.scriptInput();

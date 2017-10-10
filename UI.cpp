@@ -16,7 +16,7 @@
  */
 
 
- #include <string>
+#include <string>
 #include <vector>
 #include <iostream>
 #include <sstream>
@@ -25,7 +25,7 @@ using namespace std;
 
 
 
-
+//Class method call to present user with menu, .help 
 int UI::menuPrint()
 {
 	cout <<
