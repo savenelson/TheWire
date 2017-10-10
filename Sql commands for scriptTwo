@@ -1,0 +1,44 @@
+
+
+select 'show*recordings*'|| id ||'*'|| title ||'*'|| artist ||'*'|| year ||'*'|| producer || ' ' from recordings;
+select 'show*songs*'|| sid ||'*'|| title ||'*'|| composer ||' ' from songs;
+select 'show*tracks*'|| albumID ||'*'|| songID ||'*'|| track_number ||' ' from tracks;
+select 'show*users*'|| user_id ||'*'|| name ||' ' from users;
+select 'show*playlists*'|| user_id ||'*'|| playlist_name ||' ' from playlists;
+select 'show*playlist_tracks*'|| user_id ||'*'|| playlist_name ||'*'|| song_id ||' ' from playlist_tracks;
+
+
+
+select 'show*userPlaylist*'|| users.user_id ||'*'|| users.name ||'*'|| playlists.playlist_name ||' ' from users join playlists on users.user_id=playlists.user_id;
+
+
+
+
+select 'show*userPlaylistSongs*'|| users.name ||'*'|| playlist_tracks.playlist_name ||'*'|| songs.title ||' ' from users join playlist_tracks on users.user_id=playlist_tracks.user_id join songs on playlist_tracks.song_id=songs.sid;
+
+
+
+
+select 'delete*recordings*'|| id ||'*'|| title ||'*'|| artist ||'*'|| year ||'*'|| producer || ' ' from recordings;
+select 'delete*songs*'|| sid ||'*'|| title ||'*'|| composer ||' ' from songs;
+select 'delete*tracks*'|| albumID ||'*'|| songID ||'*'|| track_number ||' ' from tracks;
+select 'delete*users*'|| user_id ||'*'|| name ||' ' from users;
+select 'delete*playlists*'|| user_id ||'*'|| playlist_name ||' ' from playlists;
+select 'delete*playlist_tracks*'|| user_id ||'*'|| playlist_name ||'*'|| song_id ||' ' from playlist_tracks;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

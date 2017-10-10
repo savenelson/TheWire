@@ -1,0 +1,18 @@
+add*recording*102*A Hard Day's Night*Beatles*1964*George Martin
+add*song*1009*Baby It's You*Hal David,Barney Williams, Burt Bacharach
+add*track*102*1031*5
+add*playlist*fjones*favourites
+add*playlisttrack*ajones*driving*1010
+show*recording*113*Please Please Me*Beatles*1963*George Martin
+show*song*1000*I Saw Her Standing There*Paul McCartney, John Lennon
+show*track*110*1157*6
+show*user*cindy*Cindy Reynolds
+show*playlist*gjones*mysong
+show*playlisttrack*gjones*mysong*1000
+show*userPlaylistSong*Glenn Jones*mysong*If I Need Someone
+delete*recording*102*A Hard Day's Night*Beatles*1964*George Martin
+delete*song*1151*Yellow Submarine in Pepperland*John Lennon, Paul McCartney
+delete*track*100*1000*1
+delete*user*gjones*Glenn Jones
+delete*playlist*gjones*mysong
+delete*playlisttrack*cindy*help*1067

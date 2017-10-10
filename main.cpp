@@ -11,7 +11,8 @@
  *        UI.cpp UI.h
  *        util.cpp util.h
  *        addall.txt
- *        showoff.txt
+ *        testsome.txt
+ *				testall.txt
  * Output: outputs include .txt files for logging and command running, and also
  *         user interface outputs for menu trasition
  * Compile: -g++ -g -Wall -std=c++11 main.cpp command.cpp UI.cpp util.cpp -o thewire
@@ -57,7 +58,7 @@ int main(){
 		std::cout << "         COMMANDS:  .cmd to enter commands" << std::endl;
 		std::cout << "                    .help for information" << std::endl;
 		std::cout << "                    .logStart to start logging" << std::endl;
-		std::cout << "                    .logStart to stop logging" << std::endl;
+		std::cout << "                    .logStop to stop logging" << std::endl;
 		std::cout << "                    .exit to quit" << std::endl;
 
 			string userChoice;

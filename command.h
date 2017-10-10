@@ -11,7 +11,8 @@
  *        UI.cpp UI.h
  *        util.cpp util.h
  *        addall.txt
- *        showoff.txt
+ *        testsome.txt
+ *				testall.txt
  */
 #ifndef COMMAND_H
 #define COMMAND_H

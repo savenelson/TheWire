@@ -1,0 +1,884 @@
+show*recording*102*A Hard Day's Night*Beatles*1964*George Martin
+show*recording*103*Beatles For Sale*Beatles*1964*George Martin
+show*recording*104*Help*Beatles*1965*George Martin
+show*recording*105*Rubber Soul*Beatles*1965*George Martin
+show*recording*106*Revolver*Beatles*1966*George Martin
+show*recording*107*Sgt. Pepper's Lonely Harts Club Band*Beatles*1967*George Martin
+show*recording*108*The Beatles aka White Album*Beatles*1968*George Martin
+show*recording*109*Yellow Submarine*Beatles*1969*George Martin
+show*recording*110*Abbey Road*Beatles*1969*George Martin
+show*recording*111*Let It Be*Beatles*1970*Phil Spector
+show*recording*112*With The Beatles*Beatles*1963*George Martin
+show*recording*113*Please Please Me*Beatles*1963*George Martin
+show*song*1000*I Saw Her Standing There*Paul McCartney, John Lennon
+show*song*1001*Misery*Paul McCartney, John Lennon
+show*song*1002*Anna (Go To Him)*Arthur Alexander
+show*song*1003*Chains*Gerry Goffin, Carole King
+show*song*1004*Boys*Luther Dixon, Wes Farrell
+show*song*1005*Ask Me Why*Paul McCartney, John Lennon
+show*song*1006*Please Please Me*Paul McCartney, John Lennon
+show*song*1007*Love Me Do*Paul McCartney, John Lennon
+show*song*1008*P.S. I Love You*Paul McCartney, John Lennon
+show*song*1009*Baby It's You*Hal David,Barney Williams, Burt Bacharach
+show*song*1010*Do You Want To Know A  Secret*Paul McCartney, John Lennon
+show*song*1011*A Taste Of Honey*Bobby Scott, Ric Marlow
+show*song*1012*There's A Place*Paul McCartney, John Lennon
+show*song*1013*Twist and Shout*Phil Medley, Bert Russell
+show*song*1014*It Won't Be Long*Paul McCartney, John Lennon
+show*song*1015*All I've Got To Do*Paul McCartney, John Lennon
+show*song*1016*All My Loving*Paul McCartney, John Lennon
+show*song*1017*Don't Bother Me*George Harrison
+show*song*1018*Little Child*Paul McCartney, John Lennon
+show*song*1019*Till There Was You*Meredith Willson
+show*song*1020*Please Mister Postman*Georgia Dobbins, William Garrett, Freddie Gorman, Brian Holland, Robert Bateman
+show*song*1021*Roll Over Beethhoven*Chuck Berry
+show*song*1022*Hold Me Tight*Paul McCartney, John Lennon
+show*song*1023*I Wanna Be Your Man*Paul McCartney, John Lennon
+show*song*1024*Devil In Her Heart*Richard Drapkin
+show*song*1025*Not A Second Time*Paul McCartney, John Lennon
+show*song*1026*Money (That's What I Want)*Janie Bradford, Berry Gordy
+show*song*1027*A Hard Day's Night*John Lennon, Paul McCartney
+show*song*1028*I Should Have Known Better*John Lennon, Paul McCartney
+show*song*1029*If I Fell*John Lennon, Paul McCartney
+show*song*1030*I'm Happy Just To Dance With You*John Lennon, Paul McCartney
+show*song*1031*And I Love Her*John Lennon, Paul McCartney
+show*song*1032*Tell Me Why*John Lennon, Paul McCartney
+show*song*1033*Can't Buy Me Love*John Lennon, Paul McCartney
+show*song*1034*Any Time at All*John Lennon, Paul McCartney
+show*song*1035*I'll Cry Instead*John Lennon, Paul McCartney
+show*song*1036*Things We Said Today*John Lennon, Paul McCartney
+show*song*1037*When I Get Home*John Lennon, Paul McCartney
+show*song*1038*You Can't Do That*John Lennon, Paul McCartney
+show*song*1039*I'll Be Back*John Lennon, Paul McCartney
+show*song*1040*No Reply*John Lennon, Paul McCartney
+show*song*1041*I'm a Loser*John Lennon, Paul McCartney
+show*song*1042*Baby's in Black*John Lennon, Paul McCartney
+show*song*1043*Rock and Roll Music*Chuck Berry
+show*song*1044*I'll Follow The Sun*John Lennon, Paul McCartney
+show*song*1045*Mr. Moonlight*Roy Lee Johnson
+show*song*1046*Kansas City/Hey,Hey,Hey,Hey*Jerry Leiber, Mike Stoller / Richard Penniman
+show*song*1047*Eight Days a Week*John Lennon, Paul McCartney
+show*song*1048*Words of Love*Buddy Holly
+show*song*1049*Honey Don't*Carl Perkins
+show*song*1050*Every Little Thing*John Lennon, Paul McCartney
+show*song*1051*I Don't Want to Spoil the Party*John Lennon, Paul McCartney
+show*song*1052*What You're Doing*John Lennon, Paul McCartney
+show*song*1053*Everybody's Trying to Be My Baby*Carl Perkins
+show*song*1054*Help!*John Lennon, Paul McCartney
+show*song*1055*The Night Before*John Lennon, Paul McCartney
+show*song*1056*You've Got To Hide Your love Away*John Lennon, Paul McCartney
+show*song*1057*I Need You*George Harrison
+show*song*1058*Another Girl*John Lennon, Paul McCartney
+show*song*1059*You're Going to Lose That Girl*John Lennon, Paul McCartney
+show*song*1060*Ticket To Ride*John Lennon, Paul McCartney
+show*song*1061*Act naturally*Johnny Russell, Voni Morrison
+show*song*1062*It's Only Love*John Lennon, Paul McCartney
+show*song*1063*You Like Me Too Much*John Lennon, Paul McCartney
+show*song*1064*Tell Me What You See*John Lennon, Paul McCartney
+show*song*1065*I've Just Seen a Face*John Lennon, Paul McCartney
+show*song*1066*Yesterday*John Lennon, Paul McCartney
+show*song*1067*Dizzy Miss Lizzy*Larry Williams
+show*song*1068*Drive My Car*John Lennon, Paul McCartney
+show*song*1069*Norwegian Wood*John Lennon, Paul McCartney
+show*song*1070*You Won't See Me*John Lennon, Paul McCartney
+show*song*1071*Nowhere Man*John Lennon, Paul McCartney
+show*song*1072*Think for Yourself*George Harrison
+show*song*1073*The World*John Lennon, Paul McCartney
+show*song*1074*Michelle*John Lennon, Paul McCartney
+show*song*1075*What Goes On*John Lennon, Paul McCartney, Richard Starkey
+show*song*1076*Girl*John Lennon, Paul McCartney
+show*song*1077*I'm Looking Through You*John Lennon, Paul McCartney
+show*song*1078*In My Life*John Lennon, Paul McCartney
+show*song*1079*Wait*John Lennon, Paul McCartney
+show*song*1080*If I Need Someone*George Harrison
+show*song*1081*Run for Your Life*John Lennon, Paul McCartney
+show*song*1082*Taxman*George Harrison
+show*song*1083*Eleanor Rigby*John Lennon, Paul McCartney
+show*song*1084*I'm Only Sleeping*John Lennon, Paul McCartney
+show*song*1085*Love You To*George Harrison
+show*song*1086*Here, There and Everywhere*John Lennon, Paul McCartney
+show*song*1087*Yellow Submarine*John Lennon, Paul McCartney
+show*song*1088*She Said She Said*John Lennon, Paul McCartney
+show*song*1089*Good Day Sunshine*John Lennon, Paul McCartney
+show*song*1090*And your Bird Can Sing*John Lennon, Paul McCartney
+show*song*1091*For No One*John Lennon, Paul McCartney
+show*song*1092*Doctor Robert*John Lennon, Paul McCartney
+show*song*1093*I Want to Tell You*George Harrison
+show*song*1094*Got to Get You into My Life*John Lennon, Paul McCartney
+show*song*1095*Tomorrow Never Knows*John Lennon, Paul McCartney
+show*song*1096*Sgt. Pepper's Lonely Hearts Club Band*John Lennon, Paul McCartney
+show*song*1097*With a Little Help from My Friends*John Lennon, Paul McCartney
+show*song*1098*Luch in the Sky with Diamonds*John Lennon, Paul McCartney
+show*song*1099*Getting Better*John Lennon, Paul McCartney
+show*song*1100*Fixing a Hole*John Lennon, Paul McCartney
+show*song*1101*She's Leaving Home*John Lennon, Paul McCartney
+show*song*1102*Being for the Benefit of Mr. Kite!*John Lennon, Paul McCartney
+show*song*1103*Within You Without You*George Harrison
+show*song*1104*When I'm Sixty-Four*John Lennon, Paul McCartney
+show*song*1105*Lovely Rita*John Lennon, Paul McCartney
+show*song*1106*Good Morning Good Morning*John Lennon, Paul McCartney
+show*song*1107*Sgt. Pepper's Lonely Hearts Club Band (reprise)*John Lennon, Paul McCartney
+show*song*1108*A Day in the Life*John Lennon, Paul McCartney
+show*song*1109*Back in the U.S.S.R*John Lennon, Paul McCartney
+show*song*1110*Dear Prudence*John Lennon, Paul McCartney
+show*song*1111*Glass Onion*John Lennon, Paul McCartney
+show*song*1112*Ob-La-Di, Ob-La_da*John Lennon, Paul McCartney
+show*song*1113*Wild Honey Pie*John Lennon, Paul McCartney
+show*song*1114*The Continuing Story of Bungalow Bill*John Lennon, Paul McCartney
+show*song*1115*While My Guitar Gently Weeps*George Harrison
+show*song*1116*Happiness Is a Warm Gun*John Lennon, Paul McCartney
+show*song*1117*Martha My Dear*John Lennon, Paul McCartney
+show*song*1118*I'm So Tired*John Lennon, Paul McCartney
+show*song*1119*Blackbird*John Lennon, Paul McCartney
+show*song*1120*Piggies*Harrison
+show*song*1121*Rocky Raccon*John Lennon, Paul McCartney
+show*song*1122*Don't Pass Me By*Richard Starkey
+show*song*1123*Why Don't We Do It in the Road*John Lennon, Paul McCartney
+show*song*1124*I Will*John Lennon, Paul McCartney
+show*song*1125*Julia*John Lennon, Paul McCartney
+show*song*1126*Birthday*John Lennon, Paul McCartney
+show*song*1127*Yer Blues*John Lennon, Paul McCartney
+show*song*1128*Mother Nature's Son*John Lennon, Paul McCartney
+show*song*1129*Everybody's Got Something to Hide Except Me and My Monkey*John Lennon, Paul McCartney
+show*song*1130*Sexy Sadie*John Lennon, Paul McCartney
+show*song*1131*Helter Skelter*John Lennon, Paul McCartney
+show*song*1132*Long, Long, Long*John Lennon, Paul McCartney
+show*song*1133*Revolution 1*John Lennon, Paul McCartney
+show*song*1134*Honey Pie*John Lennon, Paul McCartney
+show*song*1135*Savoy Truffle*George Harrison
+show*song*1136*Cry Baby Cry*John Lennon, Paul McCartney
+show*song*1137*Revolution 9*John Lennon, Paul McCartney
+show*song*1138*Good Night*John Lennon, Paul McCartney
+show*song*1140*Only a Northern Song*John Lennon, Paul McCartney
+show*song*1141*All Together Now*John Lennon, Paul McCartney
+show*song*1142*Hey Bulldog*John Lennon, Paul McCartney
+show*song*1143*It's All too Much*John Lennon, Paul McCartney
+show*song*1144*All You Need Is Love*John Lennon, Paul McCartney
+show*song*1145*Pepperland*John Lennon, Paul McCartney
+show*song*1146*Sea of Time*John Lennon, Paul McCartney
+show*song*1147*Sea of Holes*John Lennon, Paul McCartney
+show*song*1148*Sea of Monsters*John Lennon, Paul McCartney
+show*song*1149*March of the Meanies*John Lennon, Paul McCartney
+show*song*1150*Pepperland Laid Waste*John Lennon, Paul McCartney
+show*song*1151*Yellow Submarine in Pepperland*John Lennon, Paul McCartney
+show*song*1152*Come Together*John Lennon, Paul McCartney
+show*song*1153*Something*George Harrison
+show*song*1154*Maxwell's Silver Hammer*John Lennon, Paul McCartney
+show*song*1155*Oh! Darling*John Lennon, Paul McCartney
+show*song*1156*Octopus's Garden*Richard Starkey
+show*song*1157*I Want You (She's So Heavy)*John Lennon, Paul McCartney
+show*song*1158*Here Comes The Sun*George Harrison
+show*song*1159*Because*John Lennon, Paul McCartney
+show*song*1160*You Never Give My Your Money*John Lennon, Paul McCartney
+show*song*1161*Sun King*John Lennon, Paul McCartney
+show*song*1162*Mean Mr. Mustard*John Lennon, Paul McCartney
+show*song*1163*Polythene Pam*John Lennon, Paul McCartney
+show*song*1164*She Came in Through the Bathroom Window*John Lennon, Paul McCartney
+show*song*1166*Golden Slumbers*John Lennon, Paul McCartney
+show*song*1167*Carry That Weight*John Lennon, Paul McCartney
+show*song*1168*The End*John Lennon, Paul McCartney
+show*song*1169*Her Majesty*John Lennon, Paul McCartney
+show*song*1170*Two of Us*John Lennon, Paul McCartney
+show*song*1171*Dig a Pony*John Lennon, Paul McCartney
+show*song*1172*Across the Universe*John Lennon, Paul McCartney
+show*song*1173*I Me Mine*John Lennon, Paul McCartney
+show*song*1174*Dig It*John Lennon, Paul McCartney, George Harrison, Richard Starkey
+show*song*1175*Let It Be*John Lennon, Paul McCartney
+show*song*1176*Magie Mae*John Lennon, Paul McCartney, George Harrison, Richard Starkey
+show*song*1177*I've Got a Feeling*John Lennon, Paul McCartney
+show*song*1178*One After 909*John Lennon, Paul McCartney
+show*song*1179*The Long and Winding road*John Lennon, Paul McCartney
+show*song*1180*For You Blue*John Lennon, Paul McCartney
+show*song*1181*Get Back*John Lennon, Paul McCartney
+show*track*100*1000*1
+show*track*100*1001*2
+show*track*100*1002*3
+show*track*100*1003*4
+show*track*100*1004*5
+show*track*100*1005*6
+show*track*100*1006*7
+show*track*100*1007*8
+show*track*100*1008*9
+show*track*100*1009*10
+show*track*100*1010*11
+show*track*100*1011*12
+show*track*100*1012*13
+show*track*100*1013*14
+show*track*101*1014*1
+show*track*101*1015*2
+show*track*101*1016*3
+show*track*101*1017*4
+show*track*101*1018*5
+show*track*101*1019*6
+show*track*101*1020*7
+show*track*101*1021*8
+show*track*101*1022*9
+show*track*101*1023*10
+show*track*101*1024*11
+show*track*101*1025*12
+show*track*101*1026*13
+show*track*102*1027*1
+show*track*102*1028*2
+show*track*102*1029*3
+show*track*102*1030*4
+show*track*102*1031*5
+show*track*102*1032*6
+show*track*102*1033*7
+show*track*102*1034*8
+show*track*102*1035*9
+show*track*102*1036*10
+show*track*102*1037*11
+show*track*102*1038*12
+show*track*102*1039*13
+show*track*103*1040*1
+show*track*103*1041*2
+show*track*103*1042*3
+show*track*103*1043*4
+show*track*103*1044*5
+show*track*103*1045*6
+show*track*103*1046*7
+show*track*103*1047*8
+show*track*103*1048*9
+show*track*103*1049*10
+show*track*103*1050*11
+show*track*103*1051*12
+show*track*103*1052*13
+show*track*103*1053*14
+show*track*104*1054*1
+show*track*104*1055*2
+show*track*104*1056*3
+show*track*104*1057*4
+show*track*104*1058*5
+show*track*104*1059*6
+show*track*104*1060*7
+show*track*104*1061*8
+show*track*104*1062*9
+show*track*104*1063*10
+show*track*104*1064*11
+show*track*104*1065*12
+show*track*104*1066*13
+show*track*104*1067*14
+show*track*105*1068*1
+show*track*105*1069*2
+show*track*105*1070*3
+show*track*105*1071*4
+show*track*105*1072*5
+show*track*105*1073*6
+show*track*105*1074*7
+show*track*105*1075*8
+show*track*105*1076*9
+show*track*105*1077*10
+show*track*105*1078*11
+show*track*105*1079*12
+show*track*105*1080*13
+show*track*105*1081*14
+show*track*106*1082*1
+show*track*106*1083*2
+show*track*106*1084*3
+show*track*106*1085*4
+show*track*106*1086*5
+show*track*106*1087*6
+show*track*106*1088*7
+show*track*106*1089*8
+show*track*106*1090*9
+show*track*106*1091*10
+show*track*106*1092*11
+show*track*106*1093*12
+show*track*106*1094*13
+show*track*106*1095*14
+show*track*107*1096*1
+show*track*107*1097*2
+show*track*107*1098*3
+show*track*107*1099*4
+show*track*107*1100*5
+show*track*107*1101*6
+show*track*107*1102*7
+show*track*107*1103*8
+show*track*107*1104*9
+show*track*107*1105*10
+show*track*107*1106*11
+show*track*107*1107*12
+show*track*107*1108*13
+show*track*108*1109*1
+show*track*108*1110*2
+show*track*108*1111*3
+show*track*108*1112*4
+show*track*108*1113*5
+show*track*108*1114*6
+show*track*108*1115*7
+show*track*108*1116*8
+show*track*108*1117*9
+show*track*108*1118*10
+show*track*108*1119*11
+show*track*108*1120*12
+show*track*108*1121*13
+show*track*108*1122*14
+show*track*108*1123*15
+show*track*108*1124*16
+show*track*108*1125*17
+show*track*108*1126*18
+show*track*108*1127*19
+show*track*108*1128*20
+show*track*108*1129*21
+show*track*108*1130*22
+show*track*108*1131*23
+show*track*108*1132*24
+show*track*108*1133*25
+show*track*108*1134*26
+show*track*108*1135*27
+show*track*108*1136*28
+show*track*108*1137*29
+show*track*108*1138*30
+show*track*109*1139*1
+show*track*109*1140*2
+show*track*109*1141*3
+show*track*109*1142*4
+show*track*109*1143*5
+show*track*109*1144*6
+show*track*109*1145*7
+show*track*109*1146*8
+show*track*109*1147*9
+show*track*109*1148*10
+show*track*109*1149*11
+show*track*109*1150*12
+show*track*109*1151*13
+show*track*110*1152*1
+show*track*110*1153*2
+show*track*110*1154*3
+show*track*110*1155*4
+show*track*110*1156*5
+show*track*110*1157*6
+show*track*110*1158*7
+show*track*110*1159*8
+show*track*110*1160*9
+show*track*110*1161*10
+show*track*110*1162*11
+show*track*110*1163*12
+show*track*110*1164*13
+show*track*110*1165*14
+show*track*110*1166*15
+show*track*110*1167*16
+show*track*110*1168*17
+show*track*110*1169*18
+show*track*111*1170*1
+show*track*111*1171*2
+show*track*111*1172*3
+show*track*111*1173*4
+show*track*111*1174*5
+show*track*111*1175*6
+show*track*111*1176*7
+show*track*111*1177*8
+show*track*111*1178*9
+show*track*111*1179*10
+show*track*111*1180*11
+show*track*111*1181*12
+show*user*gjones*Glenn Jones
+show*user*sjones*Susan Jones
+show*user*fjones*Frank Jones
+show*user*ajones*Anne Jones
+show*user*cindy*Cindy Reynolds
+show*playlist*gjones*mysong
+show*playlist*fjones*favourites
+show*playlist*fjones*mysong
+show*playlist*ajones*morning song
+show*playlist*ajones*evening song
+show*playlist*ajones*driving
+show*playlist*ajones*favourites
+show*playlist*cindy*help
+show*playlist*cindy*song
+show*playlisttrack*gjones*mysong*1000
+show*playlisttrack*gjones*mysong*1005
+show*playlisttrack*gjones*mysong*1080
+show*playlisttrack*gjones*mysong*1081
+show*playlisttrack*ajones*driving*1069
+show*playlisttrack*ajones*driving*1010
+show*playlisttrack*ajones*driving*1025
+show*playlisttrack*ajones*favourites*1069
+show*playlisttrack*ajones*favourites*1010
+show*playlisttrack*ajones*favourites*1070
+show*playlisttrack*fjones*favourites*1012
+show*playlisttrack*fjones*favourites*1013
+show*playlisttrack*fjones*favourites*1010
+show*playlisttrack*fjones*favourites*1070
+show*playlisttrack*cindy*song*1012
+show*playlisttrack*cindy*song*1069
+show*playlisttrack*cindy*song*1010
+show*playlisttrack*cindy*song*1025
+show*playlisttrack*cindy*song*1070
+show*playlisttrack*cindy*help*1054
+show*playlisttrack*cindy*help*1055
+show*playlisttrack*cindy*help*1056
+show*playlisttrack*cindy*help*1057
+show*playlisttrack*cindy*help*1058
+show*playlisttrack*cindy*help*1059
+show*playlisttrack*cindy*help*1060
+show*playlisttrack*cindy*help*1061
+show*playlisttrack*cindy*help*1062
+show*playlisttrack*cindy*help*1063
+show*playlisttrack*cindy*help*1064
+show*playlisttrack*cindy*help*1065
+show*playlisttrack*cindy*help*1066
+show*playlisttrack*cindy*help*1067
+show*userPlaylist*gjones*Glenn Jones*mysong
+show*userPlaylist*fjones*Frank Jones*favourites
+show*userPlaylist*fjones*Frank Jones*mysong
+show*userPlaylist*ajones*Anne Jones*morning song
+show*userPlaylist*ajones*Anne Jones*evening song
+show*userPlaylist*ajones*Anne Jones*driving
+show*userPlaylist*ajones*Anne Jones*favourites
+show*userPlaylist*cindy*Cindy Reynolds*help
+show*userPlaylist*cindy*Cindy Reynolds*song
+show*userPlaylistSong*Glenn Jones*mysong*I Saw Her Standing There
+show*userPlaylistSong*Glenn Jones*mysong*Ask Me Why
+show*userPlaylistSong*Glenn Jones*mysong*If I Need Someone
+show*userPlaylistSong*Glenn Jones*mysong*Run for Your Life
+show*userPlaylistSong*Anne Jones*driving*Norwegian Wood
+show*userPlaylistSong*Anne Jones*driving*Do You Want To Know A  Secret
+show*userPlaylistSong*Anne Jones*driving*Not A Second Time
+show*userPlaylistSong*Anne Jones*favourites*Norwegian Wood
+show*userPlaylistSong*Anne Jones*favourites*Do You Want To Know A  Secret
+show*userPlaylistSong*Anne Jones*favourites*You Won't See Me
+show*userPlaylistSong*Frank Jones*favourites*There's A Place
+show*userPlaylistSong*Frank Jones*favourites*Twist and Shout
+show*userPlaylistSong*Frank Jones*favourites*Do You Want To Know A  Secret
+show*userPlaylistSong*Frank Jones*favourites*You Won't See Me
+show*userPlaylistSong*Cindy Reynolds*song*There's A Place
+show*userPlaylistSong*Cindy Reynolds*song*Norwegian Wood
+show*userPlaylistSong*Cindy Reynolds*song*Do You Want To Know A  Secret
+show*userPlaylistSong*Cindy Reynolds*song*Not A Second Time
+show*userPlaylistSong*Cindy Reynolds*song*You Won't See Me
+show*userPlaylistSong*Cindy Reynolds*help*Help!
+show*userPlaylistSong*Cindy Reynolds*help*The Night Before
+show*userPlaylistSong*Cindy Reynolds*help*You've Got To Hide Your love Away
+show*userPlaylistSong*Cindy Reynolds*help*I Need You
+show*userPlaylistSong*Cindy Reynolds*help*Another Girl
+show*userPlaylistSong*Cindy Reynolds*help*You're Going to Lose That Girl
+show*userPlaylistSong*Cindy Reynolds*help*Ticket To Ride
+show*userPlaylistSong*Cindy Reynolds*help*Act naturally
+show*userPlaylistSong*Cindy Reynolds*help*It's Only Love
+show*userPlaylistSong*Cindy Reynolds*help*You Like Me Too Much
+show*userPlaylistSong*Cindy Reynolds*help*Tell Me What You See
+show*userPlaylistSong*Cindy Reynolds*help*I've Just Seen a Face
+show*userPlaylistSong*Cindy Reynolds*help*Yesterday
+show*userPlaylistSong*Cindy Reynolds*help*Dizzy Miss Lizzy
+delete*recording*102*A Hard Day's Night*Beatles*1964*George Martin
+delete*recording*103*Beatles For Sale*Beatles*1964*George Martin
+delete*recording*104*Help*Beatles*1965*George Martin
+delete*recording*105*Rubber Soul*Beatles*1965*George Martin
+delete*recording*106*Revolver*Beatles*1966*George Martin
+delete*recording*107*Sgt. Pepper's Lonely Harts Club Band*Beatles*1967*George Martin
+delete*recording*108*The Beatles aka White Album*Beatles*1968*George Martin
+delete*recording*109*Yellow Submarine*Beatles*1969*George Martin
+delete*recording*110*Abbey Road*Beatles*1969*George Martin
+delete*recording*111*Let It Be*Beatles*1970*Phil Spector
+delete*recording*112*With The Beatles*Beatles*1963*George Martin
+delete*recording*113*Please Please Me*Beatles*1963*George Martin
+delete*song*1000*I Saw Her Standing There*Paul McCartney, John Lennon
+delete*song*1001*Misery*Paul McCartney, John Lennon
+delete*song*1002*Anna (Go To Him)*Arthur Alexander
+delete*song*1003*Chains*Gerry Goffin, Carole King
+delete*song*1004*Boys*Luther Dixon, Wes Farrell
+delete*song*1005*Ask Me Why*Paul McCartney, John Lennon
+delete*song*1006*Please Please Me*Paul McCartney, John Lennon
+delete*song*1007*Love Me Do*Paul McCartney, John Lennon
+delete*song*1008*P.S. I Love You*Paul McCartney, John Lennon
+delete*song*1009*Baby It's You*Hal David,Barney Williams, Burt Bacharach
+delete*song*1010*Do You Want To Know A  Secret*Paul McCartney, John Lennon
+delete*song*1011*A Taste Of Honey*Bobby Scott, Ric Marlow
+delete*song*1012*There's A Place*Paul McCartney, John Lennon
+delete*song*1013*Twist and Shout*Phil Medley, Bert Russell
+delete*song*1014*It Won't Be Long*Paul McCartney, John Lennon
+delete*song*1015*All I've Got To Do*Paul McCartney, John Lennon
+delete*song*1016*All My Loving*Paul McCartney, John Lennon
+delete*song*1017*Don't Bother Me*George Harrison
+delete*song*1018*Little Child*Paul McCartney, John Lennon
+delete*song*1019*Till There Was You*Meredith Willson
+delete*song*1020*Please Mister Postman*Georgia Dobbins, William Garrett, Freddie Gorman, Brian Holland, Robert Bateman
+delete*song*1021*Roll Over Beethhoven*Chuck Berry
+delete*song*1022*Hold Me Tight*Paul McCartney, John Lennon
+delete*song*1023*I Wanna Be Your Man*Paul McCartney, John Lennon
+delete*song*1024*Devil In Her Heart*Richard Drapkin
+delete*song*1025*Not A Second Time*Paul McCartney, John Lennon
+delete*song*1026*Money (That's What I Want)*Janie Bradford, Berry Gordy
+delete*song*1027*A Hard Day's Night*John Lennon, Paul McCartney
+delete*song*1028*I Should Have Known Better*John Lennon, Paul McCartney
+delete*song*1029*If I Fell*John Lennon, Paul McCartney
+delete*song*1030*I'm Happy Just To Dance With You*John Lennon, Paul McCartney
+delete*song*1031*And I Love Her*John Lennon, Paul McCartney
+delete*song*1032*Tell Me Why*John Lennon, Paul McCartney
+delete*song*1033*Can't Buy Me Love*John Lennon, Paul McCartney
+delete*song*1034*Any Time at All*John Lennon, Paul McCartney
+delete*song*1035*I'll Cry Instead*John Lennon, Paul McCartney
+delete*song*1036*Things We Said Today*John Lennon, Paul McCartney
+delete*song*1037*When I Get Home*John Lennon, Paul McCartney
+delete*song*1038*You Can't Do That*John Lennon, Paul McCartney
+delete*song*1039*I'll Be Back*John Lennon, Paul McCartney
+delete*song*1040*No Reply*John Lennon, Paul McCartney
+delete*song*1041*I'm a Loser*John Lennon, Paul McCartney
+delete*song*1042*Baby's in Black*John Lennon, Paul McCartney
+delete*song*1043*Rock and Roll Music*Chuck Berry
+delete*song*1044*I'll Follow The Sun*John Lennon, Paul McCartney
+delete*song*1045*Mr. Moonlight*Roy Lee Johnson
+delete*song*1046*Kansas City/Hey,Hey,Hey,Hey*Jerry Leiber, Mike Stoller / Richard Penniman
+delete*song*1047*Eight Days a Week*John Lennon, Paul McCartney
+delete*song*1048*Words of Love*Buddy Holly
+delete*song*1049*Honey Don't*Carl Perkins
+delete*song*1050*Every Little Thing*John Lennon, Paul McCartney
+delete*song*1051*I Don't Want to Spoil the Party*John Lennon, Paul McCartney
+delete*song*1052*What You're Doing*John Lennon, Paul McCartney
+delete*song*1053*Everybody's Trying to Be My Baby*Carl Perkins
+delete*song*1054*Help!*John Lennon, Paul McCartney
+delete*song*1055*The Night Before*John Lennon, Paul McCartney
+delete*song*1056*You've Got To Hide Your love Away*John Lennon, Paul McCartney
+delete*song*1057*I Need You*George Harrison
+delete*song*1058*Another Girl*John Lennon, Paul McCartney
+delete*song*1059*You're Going to Lose That Girl*John Lennon, Paul McCartney
+delete*song*1060*Ticket To Ride*John Lennon, Paul McCartney
+delete*song*1061*Act naturally*Johnny Russell, Voni Morrison
+delete*song*1062*It's Only Love*John Lennon, Paul McCartney
+delete*song*1063*You Like Me Too Much*John Lennon, Paul McCartney
+delete*song*1064*Tell Me What You See*John Lennon, Paul McCartney
+delete*song*1065*I've Just Seen a Face*John Lennon, Paul McCartney
+delete*song*1066*Yesterday*John Lennon, Paul McCartney
+delete*song*1067*Dizzy Miss Lizzy*Larry Williams
+delete*song*1068*Drive My Car*John Lennon, Paul McCartney
+delete*song*1069*Norwegian Wood*John Lennon, Paul McCartney
+delete*song*1070*You Won't See Me*John Lennon, Paul McCartney
+delete*song*1071*Nowhere Man*John Lennon, Paul McCartney
+delete*song*1072*Think for Yourself*George Harrison
+delete*song*1073*The World*John Lennon, Paul McCartney
+delete*song*1074*Michelle*John Lennon, Paul McCartney
+delete*song*1075*What Goes On*John Lennon, Paul McCartney, Richard Starkey
+delete*song*1076*Girl*John Lennon, Paul McCartney
+delete*song*1077*I'm Looking Through You*John Lennon, Paul McCartney
+delete*song*1078*In My Life*John Lennon, Paul McCartney
+delete*song*1079*Wait*John Lennon, Paul McCartney
+delete*song*1080*If I Need Someone*George Harrison
+delete*song*1081*Run for Your Life*John Lennon, Paul McCartney
+delete*song*1082*Taxman*George Harrison
+delete*song*1083*Eleanor Rigby*John Lennon, Paul McCartney
+delete*song*1084*I'm Only Sleeping*John Lennon, Paul McCartney
+delete*song*1085*Love You To*George Harrison
+delete*song*1086*Here, There and Everywhere*John Lennon, Paul McCartney
+delete*song*1087*Yellow Submarine*John Lennon, Paul McCartney
+delete*song*1088*She Said She Said*John Lennon, Paul McCartney
+delete*song*1089*Good Day Sunshine*John Lennon, Paul McCartney
+delete*song*1090*And your Bird Can Sing*John Lennon, Paul McCartney
+delete*song*1091*For No One*John Lennon, Paul McCartney
+delete*song*1092*Doctor Robert*John Lennon, Paul McCartney
+delete*song*1093*I Want to Tell You*George Harrison
+delete*song*1094*Got to Get You into My Life*John Lennon, Paul McCartney
+delete*song*1095*Tomorrow Never Knows*John Lennon, Paul McCartney
+delete*song*1096*Sgt. Pepper's Lonely Hearts Club Band*John Lennon, Paul McCartney
+delete*song*1097*With a Little Help from My Friends*John Lennon, Paul McCartney
+delete*song*1098*Luch in the Sky with Diamonds*John Lennon, Paul McCartney
+delete*song*1099*Getting Better*John Lennon, Paul McCartney
+delete*song*1100*Fixing a Hole*John Lennon, Paul McCartney
+delete*song*1101*She's Leaving Home*John Lennon, Paul McCartney
+delete*song*1102*Being for the Benefit of Mr. Kite!*John Lennon, Paul McCartney
+delete*song*1103*Within You Without You*George Harrison
+delete*song*1104*When I'm Sixty-Four*John Lennon, Paul McCartney
+delete*song*1105*Lovely Rita*John Lennon, Paul McCartney
+delete*song*1106*Good Morning Good Morning*John Lennon, Paul McCartney
+delete*song*1107*Sgt. Pepper's Lonely Hearts Club Band (reprise)*John Lennon, Paul McCartney
+delete*song*1108*A Day in the Life*John Lennon, Paul McCartney
+delete*song*1109*Back in the U.S.S.R*John Lennon, Paul McCartney
+delete*song*1110*Dear Prudence*John Lennon, Paul McCartney
+delete*song*1111*Glass Onion*John Lennon, Paul McCartney
+delete*song*1112*Ob-La-Di, Ob-La_da*John Lennon, Paul McCartney
+delete*song*1113*Wild Honey Pie*John Lennon, Paul McCartney
+delete*song*1114*The Continuing Story of Bungalow Bill*John Lennon, Paul McCartney
+delete*song*1115*While My Guitar Gently Weeps*George Harrison
+delete*song*1116*Happiness Is a Warm Gun*John Lennon, Paul McCartney
+delete*song*1117*Martha My Dear*John Lennon, Paul McCartney
+delete*song*1118*I'm So Tired*John Lennon, Paul McCartney
+delete*song*1119*Blackbird*John Lennon, Paul McCartney
+delete*song*1120*Piggies*Harrison
+delete*song*1121*Rocky Raccon*John Lennon, Paul McCartney
+delete*song*1122*Don't Pass Me By*Richard Starkey
+delete*song*1123*Why Don't We Do It in the Road*John Lennon, Paul McCartney
+delete*song*1124*I Will*John Lennon, Paul McCartney
+delete*song*1125*Julia*John Lennon, Paul McCartney
+delete*song*1126*Birthday*John Lennon, Paul McCartney
+delete*song*1127*Yer Blues*John Lennon, Paul McCartney
+delete*song*1128*Mother Nature's Son*John Lennon, Paul McCartney
+delete*song*1129*Everybody's Got Something to Hide Except Me and My Monkey*John Lennon, Paul McCartney
+delete*song*1130*Sexy Sadie*John Lennon, Paul McCartney
+delete*song*1131*Helter Skelter*John Lennon, Paul McCartney
+delete*song*1132*Long, Long, Long*John Lennon, Paul McCartney
+delete*song*1133*Revolution 1*John Lennon, Paul McCartney
+delete*song*1134*Honey Pie*John Lennon, Paul McCartney
+delete*song*1135*Savoy Truffle*George Harrison
+delete*song*1136*Cry Baby Cry*John Lennon, Paul McCartney
+delete*song*1137*Revolution 9*John Lennon, Paul McCartney
+delete*song*1138*Good Night*John Lennon, Paul McCartney
+delete*song*1140*Only a Northern Song*John Lennon, Paul McCartney
+delete*song*1141*All Together Now*John Lennon, Paul McCartney
+delete*song*1142*Hey Bulldog*John Lennon, Paul McCartney
+delete*song*1143*It's All too Much*John Lennon, Paul McCartney
+delete*song*1144*All You Need Is Love*John Lennon, Paul McCartney
+delete*song*1145*Pepperland*John Lennon, Paul McCartney
+delete*song*1146*Sea of Time*John Lennon, Paul McCartney
+delete*song*1147*Sea of Holes*John Lennon, Paul McCartney
+delete*song*1148*Sea of Monsters*John Lennon, Paul McCartney
+delete*song*1149*March of the Meanies*John Lennon, Paul McCartney
+delete*song*1150*Pepperland Laid Waste*John Lennon, Paul McCartney
+delete*song*1151*Yellow Submarine in Pepperland*John Lennon, Paul McCartney
+delete*song*1152*Come Together*John Lennon, Paul McCartney
+delete*song*1153*Something*George Harrison
+delete*song*1154*Maxwell's Silver Hammer*John Lennon, Paul McCartney
+delete*song*1155*Oh! Darling*John Lennon, Paul McCartney
+delete*song*1156*Octopus's Garden*Richard Starkey
+delete*song*1157*I Want You (She's So Heavy)*John Lennon, Paul McCartney
+delete*song*1158*Here Comes The Sun*George Harrison
+delete*song*1159*Because*John Lennon, Paul McCartney
+delete*song*1160*You Never Give My Your Money*John Lennon, Paul McCartney
+delete*song*1161*Sun King*John Lennon, Paul McCartney
+delete*song*1162*Mean Mr. Mustard*John Lennon, Paul McCartney
+delete*song*1163*Polythene Pam*John Lennon, Paul McCartney
+delete*song*1164*She Came in Through the Bathroom Window*John Lennon, Paul McCartney
+delete*song*1166*Golden Slumbers*John Lennon, Paul McCartney
+delete*song*1167*Carry That Weight*John Lennon, Paul McCartney
+delete*song*1168*The End*John Lennon, Paul McCartney
+delete*song*1169*Her Majesty*John Lennon, Paul McCartney
+delete*song*1170*Two of Us*John Lennon, Paul McCartney
+delete*song*1171*Dig a Pony*John Lennon, Paul McCartney
+delete*song*1172*Across the Universe*John Lennon, Paul McCartney
+delete*song*1173*I Me Mine*John Lennon, Paul McCartney
+delete*song*1174*Dig It*John Lennon, Paul McCartney, George Harrison, Richard Starkey
+delete*song*1175*Let It Be*John Lennon, Paul McCartney
+delete*song*1176*Magie Mae*John Lennon, Paul McCartney, George Harrison, Richard Starkey
+delete*song*1177*I've Got a Feeling*John Lennon, Paul McCartney
+delete*song*1178*One After 909*John Lennon, Paul McCartney
+delete*song*1179*The Long and Winding road*John Lennon, Paul McCartney
+delete*song*1180*For You Blue*John Lennon, Paul McCartney
+delete*song*1181*Get Back*John Lennon, Paul McCartney
+delete*track*100*1000*1
+delete*track*100*1001*2
+delete*track*100*1002*3
+delete*track*100*1003*4
+delete*track*100*1004*5
+delete*track*100*1005*6
+delete*track*100*1006*7
+delete*track*100*1007*8
+delete*track*100*1008*9
+delete*track*100*1009*10
+delete*track*100*1010*11
+delete*track*100*1011*12
+delete*track*100*1012*13
+delete*track*100*1013*14
+delete*track*101*1014*1
+delete*track*101*1015*2
+delete*track*101*1016*3
+delete*track*101*1017*4
+delete*track*101*1018*5
+delete*track*101*1019*6
+delete*track*101*1020*7
+delete*track*101*1021*8
+delete*track*101*1022*9
+delete*track*101*1023*10
+delete*track*101*1024*11
+delete*track*101*1025*12
+delete*track*101*1026*13
+delete*track*102*1027*1
+delete*track*102*1028*2
+delete*track*102*1029*3
+delete*track*102*1030*4
+delete*track*102*1031*5
+delete*track*102*1032*6
+delete*track*102*1033*7
+delete*track*102*1034*8
+delete*track*102*1035*9
+delete*track*102*1036*10
+delete*track*102*1037*11
+delete*track*102*1038*12
+delete*track*102*1039*13
+delete*track*103*1040*1
+delete*track*103*1041*2
+delete*track*103*1042*3
+delete*track*103*1043*4
+delete*track*103*1044*5
+delete*track*103*1045*6
+delete*track*103*1046*7
+delete*track*103*1047*8
+delete*track*103*1048*9
+delete*track*103*1049*10
+delete*track*103*1050*11
+delete*track*103*1051*12
+delete*track*103*1052*13
+delete*track*103*1053*14
+delete*track*104*1054*1
+delete*track*104*1055*2
+delete*track*104*1056*3
+delete*track*104*1057*4
+delete*track*104*1058*5
+delete*track*104*1059*6
+delete*track*104*1060*7
+delete*track*104*1061*8
+delete*track*104*1062*9
+delete*track*104*1063*10
+delete*track*104*1064*11
+delete*track*104*1065*12
+delete*track*104*1066*13
+delete*track*104*1067*14
+delete*track*105*1068*1
+delete*track*105*1069*2
+delete*track*105*1070*3
+delete*track*105*1071*4
+delete*track*105*1072*5
+delete*track*105*1073*6
+delete*track*105*1074*7
+delete*track*105*1075*8
+delete*track*105*1076*9
+delete*track*105*1077*10
+delete*track*105*1078*11
+delete*track*105*1079*12
+delete*track*105*1080*13
+delete*track*105*1081*14
+delete*track*106*1082*1
+delete*track*106*1083*2
+delete*track*106*1084*3
+delete*track*106*1085*4
+delete*track*106*1086*5
+delete*track*106*1087*6
+delete*track*106*1088*7
+delete*track*106*1089*8
+delete*track*106*1090*9
+delete*track*106*1091*10
+delete*track*106*1092*11
+delete*track*106*1093*12
+delete*track*106*1094*13
+delete*track*106*1095*14
+delete*track*107*1096*1
+delete*track*107*1097*2
+delete*track*107*1098*3
+delete*track*107*1099*4
+delete*track*107*1100*5
+delete*track*107*1101*6
+delete*track*107*1102*7
+delete*track*107*1103*8
+delete*track*107*1104*9
+delete*track*107*1105*10
+delete*track*107*1106*11
+delete*track*107*1107*12
+delete*track*107*1108*13
+delete*track*108*1109*1
+delete*track*108*1110*2
+delete*track*108*1111*3
+delete*track*108*1112*4
+delete*track*108*1113*5
+delete*track*108*1114*6
+delete*track*108*1115*7
+delete*track*108*1116*8
+delete*track*108*1117*9
+delete*track*108*1118*10
+delete*track*108*1119*11
+delete*track*108*1120*12
+delete*track*108*1121*13
+delete*track*108*1122*14
+delete*track*108*1123*15
+delete*track*108*1124*16
+delete*track*108*1125*17
+delete*track*108*1126*18
+delete*track*108*1127*19
+delete*track*108*1128*20
+delete*track*108*1129*21
+delete*track*108*1130*22
+delete*track*108*1131*23
+delete*track*108*1132*24
+delete*track*108*1133*25
+delete*track*108*1134*26
+delete*track*108*1135*27
+delete*track*108*1136*28
+delete*track*108*1137*29
+delete*track*108*1138*30
+delete*track*109*1139*1
+delete*track*109*1140*2
+delete*track*109*1141*3
+delete*track*109*1142*4
+delete*track*109*1143*5
+delete*track*109*1144*6
+delete*track*109*1145*7
+delete*track*109*1146*8
+delete*track*109*1147*9
+delete*track*109*1148*10
+delete*track*109*1149*11
+delete*track*109*1150*12
+delete*track*109*1151*13
+delete*track*110*1152*1
+delete*track*110*1153*2
+delete*track*110*1154*3
+delete*track*110*1155*4
+delete*track*110*1156*5
+delete*track*110*1157*6
+delete*track*110*1158*7
+delete*track*110*1159*8
+delete*track*110*1160*9
+delete*track*110*1161*10
+delete*track*110*1162*11
+delete*track*110*1163*12
+delete*track*110*1164*13
+delete*track*110*1165*14
+delete*track*110*1166*15
+delete*track*110*1167*16
+delete*track*110*1168*17
+delete*track*110*1169*18
+delete*track*111*1170*1
+delete*track*111*1171*2
+delete*track*111*1172*3
+delete*track*111*1173*4
+delete*track*111*1174*5
+delete*track*111*1175*6
+delete*track*111*1176*7
+delete*track*111*1177*8
+delete*track*111*1178*9
+delete*track*111*1179*10
+delete*track*111*1180*11
+delete*track*111*1181*12
+delete*user*gjones*Glenn Jones
+delete*user*sjones*Susan Jones
+delete*user*fjones*Frank Jones
+delete*user*ajones*Anne Jones
+delete*user*cindy*Cindy Reynolds
+delete*playlist*gjones*mysong
+delete*playlist*fjones*favourites
+delete*playlist*fjones*mysong
+delete*playlist*ajones*morning song
+delete*playlist*ajones*evening song
+delete*playlist*ajones*driving
+delete*playlist*ajones*favourites
+delete*playlist*cindy*help
+delete*playlist*cindy*song
+delete*playlisttrack*gjones*mysong*1000
+delete*playlisttrack*gjones*mysong*1005
+delete*playlisttrack*gjones*mysong*1080
+delete*playlisttrack*gjones*mysong*1081
+delete*playlisttrack*ajones*driving*1069
+delete*playlisttrack*ajones*driving*1010
+delete*playlisttrack*ajones*driving*1025
+delete*playlisttrack*ajones*favourites*1069
+delete*playlisttrack*ajones*favourites*1010
+delete*playlisttrack*ajones*favourites*1070
+delete*playlisttrack*fjones*favourites*1012
+delete*playlisttrack*fjones*favourites*1013
+delete*playlisttrack*fjones*favourites*1010
+delete*playlisttrack*fjones*favourites*1070
+delete*playlisttrack*cindy*song*1012
+delete*playlisttrack*cindy*song*1069
+delete*playlisttrack*cindy*song*1010
+delete*playlisttrack*cindy*song*1025
+delete*playlisttrack*cindy*song*1070
+delete*playlisttrack*cindy*help*1054
+delete*playlisttrack*cindy*help*1055
+delete*playlisttrack*cindy*help*1056
+delete*playlisttrack*cindy*help*1057
+delete*playlisttrack*cindy*help*1058
+delete*playlisttrack*cindy*help*1059
+delete*playlisttrack*cindy*help*1060
+delete*playlisttrack*cindy*help*1061
+delete*playlisttrack*cindy*help*1062
+delete*playlisttrack*cindy*help*1063
+delete*playlisttrack*cindy*help*1064
+delete*playlisttrack*cindy*help*1065
+delete*playlisttrack*cindy*help*1066
+delete*playlisttrack*cindy*help*1067

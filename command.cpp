@@ -11,7 +11,8 @@
  *        UI.cpp UI.h
  *        util.cpp util.h
  *        addall.txt
- *        showoff.txt
+ *        testsome.txt
+ *				testall.txt
  */
 #include <sstream>
 #include <iostream>
@@ -175,12 +176,27 @@ int Command::userInput(){
 	      cout << "    Playlist Name: " <<  seglist[3] << endl;
 	      cout << "    Song ID: " <<  seglist[4] << endl;
 				cout << "    SUCCESS: playlist track has been shown \n" <<  endl;
-	    };
-	} else if (seglist[0] == ".help") {
-		ui.menuPrint();
-	} else { cout << "ERROR! command is not recognized. " << endl;
-	         cout << "Please ensure youve seperated input fields using *" << endl;
-	}
+	    } else if ((seglist[1] == "userPlaylistSongs") && (seglist.size() == 5)) {
+	      //playlisttrack.show(seglist[2],seglist[3]);
+	      cout << "userPlaylistSongs.show(User Name, Playlist Name, Song Name)" << endl;
+	      cout << "    User Name: " << seglist[2] << endl;
+	      cout << "    Playlist Name: " <<  seglist[3] << endl;
+	      cout << "    Song Name: " <<  seglist[4] << endl;
+				cout << "    SUCCESS: users' playlist songs shown \n" <<  endl;
+			} else if ((seglist[1] == "userPlaylist") && (seglist.size() == 5)) {
+	      //playlisttrack.show(seglist[2],seglist[3]);
+	      cout << "userPlaylist.show(User ID, User Name, Playlist Name)" << endl;
+	      cout << "    User ID: " << seglist[2] << endl;
+	      cout << "    User Name: " <<  seglist[3] << endl;
+	      cout << "    Playlist Name: " <<  seglist[4] << endl;
+				cout << "    SUCCESS: users' playlist shown \n" <<  endl;;
+			};
+	 	} else if (seglist[0] == ".help") {
+			ui.menuPrint();
+		} else { cout << "ERROR! command is not recognized. " << endl;
+         cout << "Please ensure youve seperated input fields using *" << endl;
+		};
+
 	return 0;
 } // END of Command::userInput()
 
@@ -190,18 +206,20 @@ int Command::scriptInput(){
 
   string input;
 
-  cout << "Input file name: " << endl;
+  cout << "Input file name: addall.txt to load entire database" << endl;
+	cout << "                 testall.txt to prove all entries and functions" << endl;
+	cout << "                 testsome.txt proves one of each function" << endl;
   string fInName;
   cin >> fInName;
 
-	cout << "Output file name: " << endl;
-	string fOutName;
-	cin >> fOutName;
+	// cout << "Output file name: " << endl;
+	// string fOutName;
+	// cin >> fOutName;
 
-  std::cout << "The names are: " << fInName << " and " << fOutName << std::endl;
+  std::cout << "The name is: " << fInName << std::endl;
 
   ifstream fileIn(fInName, ifstream::in);
-  ofstream fileOut(fOutName, ofstream::out);
+  //ofstream fileOut(fOutName, ofstream::out);
 
   if(!fileIn){ //THIS IS BLACKED CUZ ERRORS
    cout << "ERROR: could not open file " << input << "  ...exiting\n";
@@ -225,14 +243,15 @@ int Command::scriptInput(){
 
 
 		if (subStrings[0] == "add") {
-		    if ((subStrings[1] == "recording") && (subStrings.size() == 6)) {
-		        //recording.add(subStrings[2],subStrings[3],subStrings[4],subStrings[4]);
-		        cout << "recording.add(Recording ID, Recording Title, Artist, Year)" << endl;
-		        cout << "    Recording ID: " << subStrings[2] << endl;
-		        cout << "    Recording Title: " <<  subStrings[3] << endl;
-		        cout << "    Artist: " <<  subStrings[4] << endl;
-		        cout << "    Year: " <<  subStrings[5] << endl;
-		        cout << "    SUCCESS: recording added \n" << endl;
+		    if ((subStrings[1] == "recording") && (subStrings.size() == 7)) {
+		      //recording.add(subStrings[2],subStrings[3],subStrings[4],subStrings[4],subStrings[5])
+		      cout << "recording.show(Recording ID, Recording Title, Artist, Year, Producer)" << endl;
+		      cout << "    Recording ID: " << subStrings[2] << endl;
+		      cout << "    Recording Title: " <<  subStrings[3] << endl;
+		      cout << "    Artist: " <<  subStrings[4] << endl;
+		      cout << "    Year: " <<  subStrings[5] << endl;
+					cout << "    Producer: " <<  subStrings[6] << endl;
+		      cout << "    SUCCESS: recoring has been added\n" <<  endl;
 		    } else if ((subStrings[1] == "song") && (subStrings.size() == 5)) {
 		       //song.add(subStrings[2],subStrings[3],subStrings[4]);
 		       cout << "song.add(Song ID, Song Title, Composer)" << endl;
@@ -269,14 +288,15 @@ int Command::scriptInput(){
 		    } else { cout << "ERROR! command is not recognized. " << endl;
 		    };
 		  }  else if (subStrings[0] == "delete") {
-		    if ((subStrings[1] == "recording") && (subStrings.size() == 6)) {
-		        //recording.delete(subStrings[2],subStrings[3],subStrings[4],subStrings[4],subStrings[5])
-		        cout << "recording.delete(Recording ID, Recording Title, Artist, Year)" << endl;
-		        cout << "    Recording ID: " << subStrings[2] << endl;
-		        cout << "    Recording Title: " <<  subStrings[3] << endl;
-		        cout << "    Artist: " <<  subStrings[4] << endl;
-		        cout << "    Year: " <<  subStrings[5] << endl;
-		        cout << "    SUCCESS: recording deleted \n" <<  endl;
+		    if ((subStrings[1] == "recording") && (subStrings.size() == 7)) {
+		      //recording.show(subStrings[2],subStrings[3],subStrings[4],subStrings[5],subStrings[6])
+		      cout << "recording.delete(Recording ID, Recording Title, Artist, Year, Producer)" << endl;
+		      cout << "    Recording ID: " << subStrings[2] << endl;
+		      cout << "    Recording Title: " <<  subStrings[3] << endl;
+		      cout << "    Artist: " <<  subStrings[4] << endl;
+		      cout << "    Year: " <<  subStrings[5] << endl;
+					cout << "    Producer: " <<  subStrings[6] << endl;
+		      cout << "    SUCCESS: recoring has been deleted\n" <<  endl;
 		    } else if ((subStrings[1] == "song") && (subStrings.size() == 5)) {
 		        //song.delete(subStrings[2],subStrings[3],subStrings[4]);
 		        cout << "song.delete(Song ID, Song Title, Composer)" << endl;
@@ -313,13 +333,14 @@ int Command::scriptInput(){
 		    } else { cout << "ERROR! command is not recognized. " << endl;
 		    };
 		} else if (subStrings[0] == "show") {
-		    if ((subStrings[1] == "recording") && (subStrings.size() == 6)) {
-		      //recording.show(subStrings[2],subStrings[3],subStrings[4],subStrings[4],subStrings[5])
-		      cout << "recording.show(Recording ID, Recording Title, Artist, Year)" << endl;
+		    if ((subStrings[1] == "recording") && (subStrings.size() == 7)) {
+		      //recording.show(subStrings[2],subStrings[3],subStrings[4],subStrings[5],subStrings[6])
+		      cout << "recording.show(Recording ID, Recording Title, Artist, Year, Producer)" << endl;
 		      cout << "    Recording ID: " << subStrings[2] << endl;
 		      cout << "    Recording Title: " <<  subStrings[3] << endl;
 		      cout << "    Artist: " <<  subStrings[4] << endl;
 		      cout << "    Year: " <<  subStrings[5] << endl;
+					cout << "    Producer: " <<  subStrings[6] << endl;
 		      cout << "    SUCCESS: recoring has been shown \n" <<  endl;
 		    } else if ((subStrings[1] == "song") && (subStrings.size() == 5)) {
 		      //song.show(subStrings[2],subStrings[3],subStrings[4]);
@@ -354,16 +375,30 @@ int Command::scriptInput(){
 		      cout << "    Playlist Name: " <<  subStrings[3] << endl;
 		      cout << "    Song ID: " <<  subStrings[4] << endl;
 		      cout << "    SUCCESS: playlist track has been shown \n" <<  endl;
-		    };
+		    } else if ((subStrings[1] == "userPlaylistSong") && (subStrings.size() == 5)) {
+		      //playlisttrack.show(subStrings[2],subStrings[3]);
+		      cout << "userPlaylistSong.show(User Name, Playlist Name, Song Name)" << endl;
+		      cout << "    User Name: " << subStrings[2] << endl;
+		      cout << "    Playlist Name: " <<  subStrings[3] << endl;
+		      cout << "    Song Name: " <<  subStrings[4] << endl;
+					cout << "    SUCCESS: users' playlist songs shown \n" <<  endl;;
+				}else if ((subStrings[1] == "userPlaylist") && (subStrings.size() == 5)) {
+		      //playlisttrack.show(subStrings[2],subStrings[3]);
+		      cout << "userPlaylist.show(User ID, User Name, Playlist Name)" << endl;
+		      cout << "    User ID: " << subStrings[2] << endl;
+		      cout << "    User Name: " <<  subStrings[3] << endl;
+		      cout << "    Playlist Name: " <<  subStrings[4] << endl;
+					cout << "    SUCCESS: users' playlist shown \n" <<  endl;;
+				};
 		} else if (subStrings[0] == ".help") {
 		  ui.menuPrint();
-		} else { cout << "ERROR! command is not recognized. " << endl;
+		} else { cout << "ERROR! command is not recognized OR function not implimented yet" << endl;
 		         cout << "Please ensure youve seperated input fields using *" << endl;
 		}
 
     subStrings.clear();
   }
-  fileOut.close();
+  //fileOut.close();
   fileIn.close(); //fstream destructor will also close the file
 
   return(0);
