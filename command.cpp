@@ -1,10 +1,18 @@
-/* This program demonstrates reading strings from a text file
-   To use the
-   istream& getline (istream&  is, string& str);
-   method requires compilation consistent with c++11
-   not c++98 for example:
-   g++ -g -Wall -std=c++11 main.cpp util.cpp
-*/
+/*
+ * COMP 2404, Software Engineering, Carleton University, Dr. Louis Nel
+ * Assignment 1 - Command Line Music Application
+ * Names:             Student Numbers:
+ * Sammy Diamanstein  101060342
+ * David Nelson       100988784
+ * OS: Bash on Ubuntu on Windows, Lubuntu VM
+ * Date: October 10th, 2017
+ * Files: main.cpp
+ *        command.cpp command.h
+ *        UI.cpp UI.h
+ *        util.cpp util.h
+ *        addall.txt
+ *        showoff.txt
+ */
 #include <sstream>
 #include <iostream>
 #include <fstream>
@@ -66,7 +74,7 @@ int Command::userInput(){
 	        cout << "    User ID: " << seglist[2] << endl;
 	        cout << "    User Name: " <<  seglist[3] << endl;
 					cout << "    SUCCESS: user added \n" << endl;
-	    } else if ((seglist[1] == "playlist") && (seglist.size() == 5)) {
+	    } else if ((seglist[1] == "playlist") && (seglist.size() == 4)) {
 	        //playlist.add(seglist[2],seglist[3],seglist[4]);
 	        cout << "playlist.add(User ID, Playlist Name)" << endl;
 	        cout << "    User ID: " << seglist[2] << endl;
@@ -182,11 +190,11 @@ int Command::scriptInput(){
 
   string input;
 
-  cout << "Enter an input file name: " << endl;
+  cout << "Input file name: " << endl;
   string fInName;
   cin >> fInName;
 
-	cout << "Enter an output file name: " << endl;
+	cout << "Output file name: " << endl;
 	string fOutName;
 	cin >> fOutName;
 
@@ -245,7 +253,7 @@ int Command::scriptInput(){
 		        cout << "    User ID: " << subStrings[2] << endl;
 		        cout << "    User Name: " <<  subStrings[3] << endl;
 		        cout << "    SUCCESS: user added \n" << endl;
-		    } else if ((subStrings[1] == "playlist") && (subStrings.size() == 5)) {
+		    } else if ((subStrings[1] == "playlist") && (subStrings.size() == 4)) {
 		        //playlist.add(subStrings[2],subStrings[3],subStrings[4]);
 		        cout << "playlist.add(User ID, Playlist Name)" << endl;
 		        cout << "    User ID: " << subStrings[2] << endl;
