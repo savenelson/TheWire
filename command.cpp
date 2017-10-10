@@ -202,7 +202,6 @@ int Command::scriptInput(){
 
 
 
-//COMMENT
   while(getline(fileIn, input)){
 
 
