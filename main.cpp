@@ -13,9 +13,11 @@
  *        addall.txt
  *        testsome.txt
  *				testall.txt
+ *        Makefile
  * Output: outputs include .txt files for logging and command running, and also
  *         user interface outputs for menu trasition
  * Compile: -g++ -g -Wall -std=c++11 main.cpp command.cpp UI.cpp util.cpp -o thewire
+ * 	        or make
  * Errors: There is a current error regarding the boolean "log". On compilation
  *         this file throws the following warning: warning:
  *					 variable ‘log’ set but not used [-Wunused-but-set-variable]
